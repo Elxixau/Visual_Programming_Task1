@@ -50,5 +50,5 @@
 #      2- git branch -M main
 #      3- git add (tulis folder nama lengkap_NIM yang telah dibuat)
 #      4- git commit -m "Tugas Pertama"
-#      5- git remote add origin https://github.com/Elxixau/Visual_Programming_Task1.git
+#      5- git remote add origin (link repositori kalian)
 #      6- git push -u origin main
